@@ -4,11 +4,17 @@ This project presents a Power BI dashboard that analyzes sales and product perfo
 
 ---
 
+## 📷 Project Screenshot:
+
+![Amazon Sales Dashboard](amazon.jpg)
+
+---
+
 ## 📂 Files Included:
 
-- `amazon_sales_dashboard.pbix` — Power BI dashboard file
-- `amazon_sales_data.xlsx` — Raw dataset (hypothetical)
-- `amazon.jpg` — Screenshot of final dashboard
+- `amazon_sales_dashboard.pbix` — Power BI dashboard file  
+- `amazon_sales_data.xlsx` — Raw dataset (hypothetical)  
+- `amazon.jpg` — Screenshot of final dashboard  
 
 ---
 
@@ -16,10 +22,10 @@ This project presents a Power BI dashboard that analyzes sales and product perfo
 
 The objective of this project is to analyze Amazon product sales data to:
 
-- Track Year-To-Date (YTD) and Quarter-To-Date (QTD) sales performance
-- Identify top-performing product categories and individual products
-- Monitor trends in product reviews and customer engagement
-- Assist stakeholders in making informed business decisions based on sales insights
+- Track Year-To-Date (YTD) and Quarter-To-Date (QTD) sales performance  
+- Identify top-performing product categories and individual products  
+- Monitor trends in product reviews and customer engagement  
+- Assist stakeholders in making informed business decisions based on sales insights  
 
 ---
 
@@ -39,25 +45,37 @@ The objective of this project is to analyze Amazon product sales data to:
 
 ## 🔍 Key Insights:
 
-- Highest sales observed in the months of **November and December**, indicating strong seasonal demand.
-- **Men's Shoes** is the top-performing product category contributing over **43%** of total YTD sales.
-- Significant increase in sales observed in the last quarter.
-- **Nikon, Atomos, Solid Gear** products emerged as top sellers.
-- **SanDisk products** dominate in terms of product reviews, indicating high customer engagement.
-- Weekly sales trend shows consistent growth towards the end of the year.
+- Highest sales observed in the months of **November and December**, indicating strong seasonal demand  
+- **Men's Shoes** is the top-performing product category contributing over **43%** of total YTD sales  
+- Significant increase in sales observed in the last quarter  
+- **Nikon, Atomos, Solid Gear** products emerged as top sellers  
+- **SanDisk products** dominate in terms of product reviews, indicating high customer engagement  
+- Weekly sales trend shows consistent growth towards the end of the year  
 
 ---
 
 ## 🛠️ Tools & Technologies Used:
 
-- **Power BI** for Data Visualization & Dashboard Development
-- **Microsoft Excel** for Data Cleaning and Preprocessing
-- **DAX** for calculated measures and KPIs
+- **Power BI** for Data Visualization & Dashboard Development  
+- **Microsoft Excel** for Data Cleaning and Preprocessing  
+- **DAX** for calculated measures and KPIs  
 
 ---
 
-## 📎 Conclusion:
+## 📝 Optional Extended Description:
 
-The Power BI dashboard provides a clear, interactive, and insightful view of Amazon product sales performance. It helps the business track key metrics and identify growth opportunities, allowing for better planning and decision-making.
+This project provides an interactive Power BI dashboard designed to analyze Amazon product sales and performance across different categories and timeframes. 
+
+The analysis focuses on both sales volume and customer engagement, enabling stakeholders to track progress, identify trends, and make data-driven decisions for better product positioning and marketing strategies.
+
+### Target Audience:
+
+- Amazon Sellers  
+- Business Analysts  
+- Marketing Teams  
+- E-commerce Consultants  
+- Anyone interested in Amazon product performance tracking  
+
+
 
 
